@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Certificado</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+</head>
+<body>
+
+<div class="certificate" id="certificate">
+  <h1>Certificado de Finalización</h1>
+  <p>Este certificado se otorga a:</p>
+  <p id="studentName">[Nombre del estudiante]</p>
+  <p>por completar con éxito el curso de:</p>
+  <p id="courseName">[Nombre del curso]</p>
+  <p>Fecha de finalización:</p>
+  <p id="completionDate">[Fecha de finalización]</p>
+  <p>Horas de práctica:</p>
+  <p id="practiceHours">[Horas de práctica]</p>
+</div>
+
+<label for="studentNumber">Número del Estudiante:</label>
+<input type="number" id="studentNumber" placeholder="Ingrese el número del estudiante">
+
+<button id="searchButton">Buscar y Generar Certificado PDF</button>
+<button id="downloadButton" style="display: none;">Descargar Certificado PDF</button>
+
+<script src="scripts.js"></script>
+
+</body>
+</html>

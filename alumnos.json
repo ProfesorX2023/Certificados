@@ -1,0 +1,75 @@
+{
+    "alumnos": [
+      {
+        "No": 7839201,
+        "Nombre": "Juan Pérez",
+        "Curso": "Python",
+        "FechaTermino": "2023-03-15",
+        "HorasPractica": 36
+      },
+      {
+        "No": 4567892,
+        "Nombre": "María Rodríguez",
+        "Curso": "JavaScript",
+        "FechaTermino": "2023-04-10",
+        "HorasPractica": 36
+      },
+      {
+        "No": 2319085,
+        "Nombre": "Carlos Gómez",
+        "Curso": "HTML y CSS",
+        "FechaTermino": "2023-05-22",
+        "HorasPractica": 36
+      },
+      {
+        "No": 8745632,
+        "Nombre": "Ana Martínez",
+        "Curso": "JAVA",
+        "FechaTermino": "2023-06-18",
+        "HorasPractica": 36
+      },
+      {
+        "No": 9876543,
+        "Nombre": "Luis López",
+        "Curso": "SQL",
+        "FechaTermino": "2023-07-30",
+        "HorasPractica": 36
+      },
+      {
+        "No": 5678901,
+        "Nombre": "Laura Sánchez",
+        "Curso": "Word",
+        "FechaTermino": "2023-08-25",
+        "HorasPractica": 36
+      },
+      {
+        "No": 1234567,
+        "Nombre": "Pedro Ramírez",
+        "Curso": "Excel",
+        "FechaTermino": "2023-09-12",
+        "HorasPractica": 36
+      },
+      {
+        "No": 8901234,
+        "Nombre": "Sofía Díaz",
+        "Curso": "Power Point",
+        "FechaTermino": "2023-10-05",
+        "HorasPractica": 36
+      },
+      {
+        "No": 3456789,
+        "Nombre": "Javier Torres",
+        "Curso": "ACCESS",
+        "FechaTermino": "2023-11-20",
+        "HorasPractica": 36
+      },
+      {
+        "No": 6543210,
+        "Nombre": "Elena Cruz",
+        "Curso": "React",
+        "FechaTermino": "2023-12-08",
+        "HorasPractica": 36
+      }
+    ]
+  }
+  
